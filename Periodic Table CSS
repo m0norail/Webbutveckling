@@ -1,0 +1,51 @@
+td {
+	border: 1px solid #555;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	vertical-align: middle;
+	font-family: IMPACT;
+	font-size: 24px;
+}
+.alkali {
+	background-color: #cfc6cd;
+}
+.alkalineearth {
+	background-color: #59aa46;
+}
+.transitional {
+	background-color: #f7ff1e;
+}
+.nonmetals {
+	background-color: #5e8bd5;
+}
+.noblegases {
+	background-color: #c69c52;
+}
+.othermetals {
+	background-color: #e179af;
+}
+#small {
+	height: 20px;
+}
+.redtext {
+	color: #c41e1e;
+}
+.whitetext {
+	color:white;
+	text-shadow: -2px -2px 2px #000;
+}
+.bluetext {
+	color: #2e267e;
+}
+td:hover {
+	background-color: #ffbbff;
+	transition: background-color .5s;
+	-webkit-transition: background-color .5s;
+	-moz-transition: background-color .5s;
+	-o-transition: background-color .5s;
+	-ms-transition: background-color .5s;
+}
+.none {
+	border: none;
+}
