@@ -1,0 +1,40 @@
+#tabell {
+	box-shadow: 5px 5px 5px #000;
+}
+* {
+	font-family: ;
+}
+table {
+	border: 1px solid #000;
+	font-family: Verdana, Arial, sans-serif;
+	*borde-collapse: collapse;
+	border-spacing: 0;
+}
+td {
+	border: 1px solid #031;
+	font-family: Courier;
+}
+th {
+	border: 2px solid #087;
+}
+tbody td, th {
+	border: 1px solid #00f;
+	width: 150px;
+}
+
+tr {
+	background-color: #fff;
+	}
+	
+tr:hover{
+	background-color: #2ba;
+	transition: background-color 1s;
+	-webkit-transition: background-color 1s;
+	-moz-transition: background-color 1s;
+	-o-transition: background-color 1s;
+	-ms-transition: background-color 1s;
+	 
+}
+thead th {
+	text-shadow: #000 6px 6px 6px;
+}
