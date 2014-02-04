@@ -4,39 +4,45 @@ td {
 	height: 50px;
 	text-align: center;
 	vertical-align: middle;
-	font-family: IMPACT;
+	font-family: Impact;
 	font-size: 24px;
+	background-color: #fff;
+	transition: background-color .5s;
+	-webkit-transition: background-color .5s;
+	-moz-transition: background-color .5s;
+	-o-transition: background-color .5s;
+	-ms-transition: background-color .5s;
 }
 .alkali {
-	background-color: #cfc6cd;
+	background-color: #cbcbcb;
 }
 .alkalineearth {
-	background-color: #59aa46;
+	background-color: #80c980;
 }
 .transitional {
-	background-color: #f7ff1e;
+	background-color: #feff7f;
 }
 .nonmetals {
-	background-color: #5e8bd5;
+	background-color: #80cee2;
 }
 .noblegases {
-	background-color: #c69c52;
+	background-color: #fdc091;
 }
 .othermetals {
-	background-color: #e179af;
+	background-color: #f99bcd;
 }
 #small {
 	height: 20px;
 }
 .redtext {
-	color: #c41e1e;
+	color: #fd0100;
 }
 .whitetext {
 	color:white;
 	text-shadow: -2px -2px 2px #000;
 }
 .bluetext {
-	color: #2e267e;
+	color: #005d9a;
 }
 td:hover {
 	background-color: #ffbbff;
@@ -48,4 +54,19 @@ td:hover {
 }
 .none {
 	border: none;
+	background-color: #fff;
+	transition: background-color .5s;
+	-webkit-transition: background-color .5s;
+	-moz-transition: background-color .5s;
+	-o-transition: background-color .5s;
+	-ms-transition: background-color .5s;
+	
+}
+.undertext {
+	font-size: 10px;
+	font-family: arial;
+	color: black;
+	text-shadow: none;
+	text-align: center;
+	vertical-align: bottom;
 }
