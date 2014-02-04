@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<meta charset="ASCII" />
+		<title>Periodic Table</title>
+	
+	</head>
+<body>
+	
+
+	<table>
+		<tr>
+			<td class="alkali redtext">H</td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="noblegases redtext">He</td>
+		</tr>
+		<tr>
+			<td class="alkali">Li</td>
+			<td class="alkalineearth">Be</td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="nonmetals">B</td>
+			<td class="nonmetals">C</td>
+			<td class="nonmetals redtext">N</td>
+			<td class="nonmetals redtext">O</td>
+			<td class="nonmetals redtext">F</td>
+			<td class="noblegases redtext">Ne</td>
+		</tr>
+		<tr>
+			<td class="alkali">Na</td>
+			<td class="alkalineearth">Mg</td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="othermetals">Al</td>
+			<td class="nonmetals">Sl</td>
+			<td class="nonmetals">P</td>
+			<td class="nonmetals">S</td>
+			<td class="nonmetals redtext">Cl</td>
+			<td class="noblegases redtext">Ar</td>
+		</tr>
+		<tr>
+			<td class="alkali">K</td>
+			<td class="alkalineearth">Ca</td>
+			<td class="transitional">Sc</td>
+			<td class="transitional">Ti</td>
+			<td class="transitional">V</td>
+			<td class="transitional">Cr</td>
+			<td class="transitional">Mn</td>
+			<td class="transitional">Fe</td>
+			<td class="transitional">Co</td>
+			<td class="transitional">Ni</td>
+			<td class="transitional">Cu</td>
+			<td class="transitional">Zn</td>
+			<td class="othermetals">Ga</td>
+			<td class="othermetals">Ge</td>
+			<td class="nonmetals">As</td>
+			<td class="nonmetals">Se</td>
+			<td class="nonmetals bluetext">Br</td>
+			<td class="noblegases redtext">Kr</td>
+		</tr>
+		<tr>
+			<td class="alkali">Rb</td>
+			<td class="alkalineearth">Sr</td>
+			<td class="transitional">Y</td>
+			<td class="transitional">Zr</td>
+			<td class="transitional">Nb</td>
+			<td class="transitional">Mo</td>
+			<td class="transitional whitetext">Tc</td>
+			<td class="transitional">Ru</td>
+			<td class="transitional">Rh</td>
+			<td class="transitional">Pd</td>
+			<td class="transitional">Ag</td>
+			<td class="transitional">Cd</td>
+			<td class="othermetals">In</td>
+			<td class="othermetals">Sn</td>
+			<td class="othermetals">Sb</td>
+			<td class="nonmetals">Te</td>
+			<td class="nonmetals">I</td>
+			<td class="noblegases redtext">Xe</td>
+		</tr>
+		<tr>
+			<td class="alkali">Cs</td>
+			<td class="alkalineearth">Ba</td>
+			<td class="transitional">La</td>
+			<td class="transitional">Hf</td>
+			<td class="transitional">Ta</td>
+			<td class="transitional">W</td>
+			<td class="transitional">Re</td>
+			<td class="transitional">Os</td>
+			<td class="transitional">Ir</td>
+			<td class="transitional">Pt</td>
+			<td class="transitional">Au</td>
+			<td class="transitional bluetext">Hg</td>
+			<td class="othermetals">Tl</td>
+			<td class="othermetals">Pb</td>
+			<td class="othermetals">Bi</td>
+			<td class="othermetals">Po</td>
+			<td class="nonmetals">At</td>
+			<td class="noblegases redtext">Rn</td>
+		</tr>
+		<tr>
+			<td class="alkali">Fr</td>
+			<td class="alkalineearth">Ra</td>
+			<td class="transitional">Ac</td>
+			<td class="transitional whitetext">Pf</td>
+			<td class="transitional whitetext">Ma</td>
+			<td class="transitional whitetext">Sg</td>
+			<td class="transitional whitetext">Bh</td>
+			<td class="transitional whitetext">Hs</td>
+			<td class="transitional whitetext">Mt</td>
+			<td class="transitional"></td>
+			<td class="transitional"></td>
+			<td class="transitional"></td>
+			<td class="othermetals"></td>
+			<td class="othermetals"></td>
+			<td class="othermetals"></td>
+			<td class="othermetals"></td>
+			<td class="nonmetals"></td>
+			<td class="noblegases"></td>
+		</tr>
+		<tr id="small">
+		</tr>
+		<tr>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="transitional">Ce</td>
+			<td class="transitional">Pr</td>
+			<td class="transitional">Nd</td>
+			<td class="transitional whitetext">Pm</td>
+			<td class="transitional">Sn</td>
+			<td class="transitional">Eu</td>
+			<td class="transitional">Gd</td>
+			<td class="transitional">Tb</td>
+			<td class="transitional">Dy</td>
+			<td class="transitional">Ho</td>
+			<td class="transitional">Er</td>
+			<td class="transitional">Tm</td>
+			<td class="transitional">Yb</td>
+			<td class="transitional">Lu</td>
+			<td class="none"></td>
+		</tr>
+		<tr>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="none"></td>
+			<td class="transitional">Th</td>
+			<td class="transitional">Pa</td>
+			<td class="transitional">U</td>
+			<td class="transitional whitetext">Np</td>
+			<td class="transitional whitetext">Pu</td>
+			<td class="transitional whitetext">Am</td>
+			<td class="transitional whitetext">Cm</td>
+			<td class="transitional whitetext">Bk</td>
+			<td class="transitional whitetext">Cf</td>
+			<td class="transitional whitetext">Es</td>
+			<td class="transitional whitetext">Pm</td>
+			<td class="transitional whitetext">Md</td>
+			<td class="transitional whitetext">No</td>
+			<td class="transitional whitetext">Lz</td>
+			<td class="none"></td>
+		</tr>
+
+	</table>
+
+
+</body>
+</html>
