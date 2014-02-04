@@ -11,7 +11,7 @@
 
 	<table>
 		<tr>
-			<td class="alkali redtext">H</td>
+			<td class="alkali redtext">H<br><span class="undertext">Hydrogen</span></td>
 			<td class="none"></td>
 			<td class="none"></td>
 			<td class="none"></td>
@@ -28,11 +28,11 @@
 			<td class="none"></td>
 			<td class="none"></td>
 			<td class="none"></td>
-			<td class="noblegases redtext">He</td>
+			<td class="noblegases redtext">He<br><span class="undertext">Helium</span></td>
 		</tr>
 		<tr>
-			<td class="alkali">Li</td>
-			<td class="alkalineearth">Be</td>
+			<td class="alkali">Li<br><span class="undertext">Lithium</span></td>
+			<td class="alkalineearth">Be<br><span class="undertext">Beryllium</span></td>
 			<td class="none"></td>
 			<td class="none"></td>
 			<td class="none"></td>
@@ -43,16 +43,16 @@
 			<td class="none"></td>
 			<td class="none"></td>
 			<td class="none"></td>
-			<td class="nonmetals">B</td>
-			<td class="nonmetals">C</td>
-			<td class="nonmetals redtext">N</td>
-			<td class="nonmetals redtext">O</td>
-			<td class="nonmetals redtext">F</td>
-			<td class="noblegases redtext">Ne</td>
+			<td class="nonmetals">B<br><span class="undertext">Boron</span></td>
+			<td class="nonmetals">C<br><span class="undertext">Carbon</span></td>
+			<td class="nonmetals redtext">N<br><span class="undertext">Nitrogen</span></td>
+			<td class="nonmetals redtext">O<br><span class="undertext">Oxygen</span></td>
+			<td class="nonmetals redtext">F<br><span class="undertext">Fluorine</span></td>
+			<td class="noblegases redtext">Ne<br><span class="undertext">Neon</span></td>
 		</tr>
 		<tr>
-			<td class="alkali">Na</td>
-			<td class="alkalineearth">Mg</td>
+			<td class="alkali">Na<br><span class="undertext">Sodiu,</span></td>
+			<td class="alkalineearth">Mg<br><span class="undertext">Magnesium</span></td>
 			<td class="none"></td>
 			<td class="none"></td>
 			<td class="none"></td>
@@ -63,83 +63,83 @@
 			<td class="none"></td>
 			<td class="none"></td>
 			<td class="none"></td>
-			<td class="othermetals">Al</td>
-			<td class="nonmetals">Sl</td>
-			<td class="nonmetals">P</td>
-			<td class="nonmetals">S</td>
-			<td class="nonmetals redtext">Cl</td>
-			<td class="noblegases redtext">Ar</td>
+			<td class="othermetals">Al<br><span class="undertext">Aluminum</span></td>
+			<td class="nonmetals">Sl<br><span class="undertext">Silicon</span></td>
+			<td class="nonmetals">P<br><span class="undertext">Phosphorous</span></td>
+			<td class="nonmetals">S<br><span class="undertext">Sulfur</span></td>
+			<td class="nonmetals redtext">Cl<br><span class="undertext">Chlorine</span></td>
+			<td class="noblegases redtext">Ar<br><span class="undertext">Argon</span></td>
 		</tr>
 		<tr>
-			<td class="alkali">K</td>
-			<td class="alkalineearth">Ca</td>
-			<td class="transitional">Sc</td>
-			<td class="transitional">Ti</td>
-			<td class="transitional">V</td>
-			<td class="transitional">Cr</td>
-			<td class="transitional">Mn</td>
-			<td class="transitional">Fe</td>
-			<td class="transitional">Co</td>
-			<td class="transitional">Ni</td>
-			<td class="transitional">Cu</td>
-			<td class="transitional">Zn</td>
-			<td class="othermetals">Ga</td>
-			<td class="othermetals">Ge</td>
-			<td class="nonmetals">As</td>
-			<td class="nonmetals">Se</td>
-			<td class="nonmetals bluetext">Br</td>
-			<td class="noblegases redtext">Kr</td>
+			<td class="alkali">K<br><span class="undertext">Potassium</span></td>
+			<td class="alkalineearth">Ca<br><span class="undertext">Calcium</span></td>
+			<td class="transitional">Sc<br><span class="undertext">Scandium</span></td>
+			<td class="transitional">Ti<br><span class="undertext">Titanium</span></td>
+			<td class="transitional">V<br><span class="undertext">Vanadium</span></td>
+			<td class="transitional">Cr<br><span class="undertext">Chromium</span></td>
+			<td class="transitional">Mn<br><span class="undertext">Manganese</span></td>
+			<td class="transitional">Fe<br><span class="undertext">Iron</span></td>
+			<td class="transitional">Co<br><span class="undertext">Cobalt</span></td>
+			<td class="transitional">Ni<br><span class="undertext">Nickel</span></td>
+			<td class="transitional">Cu<br><span class="undertext">Copper</span></td>
+			<td class="transitional">Zn<br><span class="undertext">Zinc</span></td>
+			<td class="othermetals">Ga<br><span class="undertext">Galium</span></td>
+			<td class="othermetals">Ge<br><span class="undertext">Germanium</span></td>
+			<td class="nonmetals">As<br><span class="undertext">Arsenic</span></td>
+			<td class="nonmetals">Se<br><span class="undertext">Selenium</span></td>
+			<td class="nonmetals bluetext">Br<br><span class="undertext">Bromine</span></td>
+			<td class="noblegases redtext">Kr<br><span class="undertext">Krypton</span></td>
 		</tr>
 		<tr>
-			<td class="alkali">Rb</td>
-			<td class="alkalineearth">Sr</td>
-			<td class="transitional">Y</td>
-			<td class="transitional">Zr</td>
-			<td class="transitional">Nb</td>
-			<td class="transitional">Mo</td>
-			<td class="transitional whitetext">Tc</td>
-			<td class="transitional">Ru</td>
-			<td class="transitional">Rh</td>
-			<td class="transitional">Pd</td>
-			<td class="transitional">Ag</td>
-			<td class="transitional">Cd</td>
-			<td class="othermetals">In</td>
-			<td class="othermetals">Sn</td>
-			<td class="othermetals">Sb</td>
-			<td class="nonmetals">Te</td>
-			<td class="nonmetals">I</td>
-			<td class="noblegases redtext">Xe</td>
+			<td class="alkali">Rb<br><span class="undertext">Rubidium</span></td>
+			<td class="alkalineearth">Sr<br><span class="undertext">Strontium</span></td>
+			<td class="transitional">Y<br><span class="undertext">Yttrium</span></td>
+			<td class="transitional">Zr<br><span class="undertext">Zirconium</span></td>
+			<td class="transitional">Nb<br><span class="undertext">Niobium</span></td>
+			<td class="transitional">Mo<br><span class="undertext">Molybdenum</span></td>
+			<td class="transitional whitetext">Tc<br><span class="undertext">Technetium</span></td>
+			<td class="transitional">Ru<br><span class="undertext">Ruthenium</span></td>
+			<td class="transitional">Rh<br><span class="undertext">Rhodium</span></td>
+			<td class="transitional">Pd<br><span class="undertext">Palladium</span></td>
+			<td class="transitional">Ag<br><span class="undertext">Silver</span></td>
+			<td class="transitional">Cd<br><span class="undertext">Cadmium</span></td>
+			<td class="othermetals">In<br><span class="undertext">Indium</span></td>
+			<td class="othermetals">Sn<br><span class="undertext">Tin</span></td>
+			<td class="othermetals">Sb<br><span class="undertext">Antimomy</span></td>
+			<td class="nonmetals">Te<br><span class="undertext">Tellunium</span></td>
+			<td class="nonmetals">I<br><span class="undertext">Iodine</span></td>
+			<td class="noblegases redtext">Xe<br><span class="undertext">Xenon</span></td>
 		</tr>
 		<tr>
-			<td class="alkali">Cs</td>
-			<td class="alkalineearth">Ba</td>
-			<td class="transitional">La</td>
-			<td class="transitional">Hf</td>
-			<td class="transitional">Ta</td>
-			<td class="transitional">W</td>
-			<td class="transitional">Re</td>
-			<td class="transitional">Os</td>
-			<td class="transitional">Ir</td>
-			<td class="transitional">Pt</td>
-			<td class="transitional">Au</td>
-			<td class="transitional bluetext">Hg</td>
-			<td class="othermetals">Tl</td>
-			<td class="othermetals">Pb</td>
-			<td class="othermetals">Bi</td>
-			<td class="othermetals">Po</td>
-			<td class="nonmetals">At</td>
-			<td class="noblegases redtext">Rn</td>
+			<td class="alkali">Cs<br><span class="undertext">Cesium</span></td>
+			<td class="alkalineearth">Ba<br><span class="undertext">Berium</span></td>
+			<td class="transitional">La<br><span class="undertext">Lanthanum</span></td>
+			<td class="transitional">Hf<br><span class="undertext">Hafnium</span></td>
+			<td class="transitional">Ta<br><span class="undertext">Tantalum</span></td>
+			<td class="transitional">W<br><span class="undertext">Tungsten</span></td>
+			<td class="transitional">Re<br><span class="undertext">Rhenium</span></td>
+			<td class="transitional">Os<br><span class="undertext">Osmium</span></td>
+			<td class="transitional">Ir<br><span class="undertext">Iridium</span></td>
+			<td class="transitional">Pt<br><span class="undertext">Platinum</span></td>
+			<td class="transitional">Au<br><span class="undertext">Gold</span></td>
+			<td class="transitional bluetext">Hg<br><span class="undertext">Mercury</span></td>
+			<td class="othermetals">Tl<br><span class="undertext">Thallium</span></td>
+			<td class="othermetals">Pb<br><span class="undertext">Lead</span></td>
+			<td class="othermetals">Bi<br><span class="undertext">Bismuth</span></td>
+			<td class="othermetals">Po<br><span class="undertext">Polonium</span></td>
+			<td class="nonmetals">At<br><span class="undertext">Astatine</span></td>
+			<td class="noblegases redtext">Rn<br><span class="undertext">Radon</span></td>
 		</tr>
 		<tr>
-			<td class="alkali">Fr</td>
-			<td class="alkalineearth">Ra</td>
-			<td class="transitional">Ac</td>
-			<td class="transitional whitetext">Pf</td>
-			<td class="transitional whitetext">Ma</td>
-			<td class="transitional whitetext">Sg</td>
-			<td class="transitional whitetext">Bh</td>
-			<td class="transitional whitetext">Hs</td>
-			<td class="transitional whitetext">Mt</td>
+			<td class="alkali">Fr<br><span class="undertext">Francium</span></td>
+			<td class="alkalineearth">Ra<br><span class="undertext">Radium</span></td>
+			<td class="transitional">Ac<br><span class="undertext">Actinium</span></td>
+			<td class="transitional whitetext">Pf<br><span class="undertext">Rutherfordium</span></td>
+			<td class="transitional whitetext">Ma<br><span class="undertext">Hahnium</span></td>
+			<td class="transitional whitetext">Sg<br><span class="undertext">Seaborgium</span></td>
+			<td class="transitional whitetext">Bh<br><span class="undertext">Bohrium</span></td>
+			<td class="transitional whitetext">Hs<br><span class="undertext">Hassium</span></td>
+			<td class="transitional whitetext">Mt<br><span class="undertext">Meitnerium</span></td>
 			<td class="transitional"></td>
 			<td class="transitional"></td>
 			<td class="transitional"></td>
@@ -156,40 +156,40 @@
 			<td class="none"></td>
 			<td class="none"></td>
 			<td class="none"></td>
-			<td class="transitional">Ce</td>
-			<td class="transitional">Pr</td>
-			<td class="transitional">Nd</td>
-			<td class="transitional whitetext">Pm</td>
-			<td class="transitional">Sn</td>
-			<td class="transitional">Eu</td>
-			<td class="transitional">Gd</td>
-			<td class="transitional">Tb</td>
-			<td class="transitional">Dy</td>
-			<td class="transitional">Ho</td>
-			<td class="transitional">Er</td>
-			<td class="transitional">Tm</td>
-			<td class="transitional">Yb</td>
-			<td class="transitional">Lu</td>
+			<td class="transitional">Ce<br><span class="undertext">Cerium</span></td>
+			<td class="transitional">Pr<br><span class="undertext">Praseodymium</span></td>
+			<td class="transitional">Nd<br><span class="undertext">Neodymium</span></td>
+			<td class="transitional whitetext">Pm<br><span class="undertext">Promethium</span></td>
+			<td class="transitional">Sn<br><span class="undertext">Samarium</span></td>
+			<td class="transitional">Eu<br><span class="undertext">Europium</span></td>
+			<td class="transitional">Gd<br><span class="undertext">Gadolinium</span></td>
+			<td class="transitional">Tb<br><span class="undertext">Terbium</span></td>
+			<td class="transitional">Dy<br><span class="undertext">Dysprosium</span></td>
+			<td class="transitional">Ho<br><span class="undertext">Holmium</span></td>
+			<td class="transitional">Er<br><span class="undertext">Erbium</span></td>
+			<td class="transitional">Tm<br><span class="undertext">Thulium</span></td>
+			<td class="transitional">Yb<br><span class="undertext">Ytterbium</span></td>
+			<td class="transitional">Lu<br><span class="undertext">Lutetium</span></td>
 			<td class="none"></td>
 		</tr>
 		<tr>
 			<td class="none"></td>
 			<td class="none"></td>
 			<td class="none"></td>
-			<td class="transitional">Th</td>
-			<td class="transitional">Pa</td>
-			<td class="transitional">U</td>
-			<td class="transitional whitetext">Np</td>
-			<td class="transitional whitetext">Pu</td>
-			<td class="transitional whitetext">Am</td>
-			<td class="transitional whitetext">Cm</td>
-			<td class="transitional whitetext">Bk</td>
-			<td class="transitional whitetext">Cf</td>
-			<td class="transitional whitetext">Es</td>
-			<td class="transitional whitetext">Pm</td>
-			<td class="transitional whitetext">Md</td>
-			<td class="transitional whitetext">No</td>
-			<td class="transitional whitetext">Lz</td>
+			<td class="transitional">Th<br><span class="undertext">Thorium</span></td>
+			<td class="transitional">Pa<br><span class="undertext">Protactinium</span></td>
+			<td class="transitional">U<br><span class="undertext">Uranium</span></td>
+			<td class="transitional whitetext">Np<br><span class="undertext">Neptunium</span></td>
+			<td class="transitional whitetext">Pu<br><span class="undertext">Plutonium</span></td>
+			<td class="transitional whitetext">Am<br><span class="undertext">Americium</span></td>
+			<td class="transitional whitetext">Cm<br><span class="undertext">Curium</span></td>
+			<td class="transitional whitetext">Bk<br><span class="undertext">Berkelium</span></td>
+			<td class="transitional whitetext">Cf<br><span class="undertext">Californium</span></td>
+			<td class="transitional whitetext">Es<br><span class="undertext">Einsteinium</span></td>
+			<td class="transitional whitetext">Pm<br><span class="undertext">Fermium</span></td>
+			<td class="transitional whitetext">Md<br><span class="undertext">Mendelevium</span></td>
+			<td class="transitional whitetext">No<br><span class="undertext">Nobelium</span></td>
+			<td class="transitional whitetext">Lz<br><span class="undertext">Lawrencium</span></td>
 			<td class="none"></td>
 		</tr>
 
