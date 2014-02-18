@@ -2,8 +2,17 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="style.css" />
-		<meta charset="ASCII" />
+		<meta charset="ASCII" /><!-- Varför är encodingen ASCII? Den är tydligt en UTF-8... -->
 		<title>Periodic Table</title>
+		
+	<!--
+	 Taggarna bör skrivas i följande ordning. Meta bör komma så tidigt som möjligt i head-taggen.
+		<meta ....>
+		
+		<title></title>
+		
+		<link rel....>
+	-->
 	
 	</head>
 <body>
@@ -28,6 +37,10 @@
 			<td class="none"></td>
 			<td class="none"></td>
 			<td class="none"></td>
+			<!--
+				Istället för att använda tomma td kan vi använda en tom cell och attributet colspan - då slipper vi ha mycket tomma utrymmen.
+				Det blir tydligare i koden och det blir mindre att hålla reda på om vi vill ändra något.
+			-->
 			<td class="noblegases redtext">He<br><span class="undertext">Helium</span></td>
 		</tr>
 		<tr>
@@ -49,6 +62,7 @@
 			<td class="nonmetals redtext">O<br><span class="undertext">Oxygen</span></td>
 			<td class="nonmetals redtext">F<br><span class="undertext">Fluorine</span></td>
 			<td class="noblegases redtext">Ne<br><span class="undertext">Neon</span></td>
+			<!-- Ovanför hittar vi klassen "redtext" som kan ersättas med benämningen som den röda texten står för -->
 		</tr>
 		<tr>
 			<td class="alkali">Na<br><span class="undertext">Sodiu,</span></td>
@@ -109,6 +123,10 @@
 			<td class="nonmetals">Te<br><span class="undertext">Tellunium</span></td>
 			<td class="nonmetals">I<br><span class="undertext">Iodine</span></td>
 			<td class="noblegases redtext">Xe<br><span class="undertext">Xenon</span></td>
+			<!--
+			 Klassen "undertext" är åter ett tecken på klasser som istället för talar om för vad elementet innehåller, talar om hur det beter sig. Vad händer om vi placerar om texten så att den är över titeln istället?
+			 Kom ihåg, klassen ska reflektera innehållet, inte hur den beter sig för det kan ändras oftare än vad strukturen görs
+			-->
 		</tr>
 		<tr>
 			<td class="alkali">Cs<br><span class="undertext">Cesium</span></td>
@@ -151,6 +169,9 @@
 			<td class="noblegases"></td>
 		</tr>
 		<tr id="small">
+			<!--
+			 Även om tr är liten och inte ska innehålla mycket kräver varje rad en minst en "td" för att var semantiskt korrekt.
+			-->
 		</tr>
 		<tr>
 			<td class="none"></td>
@@ -194,6 +215,11 @@
 		</tr>
 
 	</table>
+	
+	<!--
+	  Glöm inte använda http://validator.w3.org/ för att kontrollera koden på egen hand och minimera ev
+	  kodfel...
+	-->
 
 
 </body>
