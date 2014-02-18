@@ -1,6 +1,10 @@
 /*
  Skapa gärna en title och author kommentar i övre delen av ditt css-dokument.
  Om du gör awesome-stuff så vill vi ju veta vem du är.
+ 
+ Author: Alexander Bram
+ Title:  CSS for Periodic Table
+ Description: To style a periodic table. 
 */
 
 td {
@@ -19,7 +23,16 @@ td {
 	-ms-transition: background-color .5s;
 }
 /*
- Skapa gärna en rad som mellanrum mellan varje {}-set för läsbarhetens skull.
+ Skapa gärna en rad som mellanrum mellan varje {}-set för läsbarhetens skull. EX:
+ 
+td {
+ ....
+}
+
+.alkali {
+ ....
+}
+
 */
 .alkali {
 	background-color: #cbcbcb;
