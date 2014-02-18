@@ -1,3 +1,8 @@
+/*
+ Skapa gärna en title och author kommentar i övre delen av ditt css-dokument.
+ Om du gör awesome-stuff så vill vi ju veta vem du är.
+*/
+
 td {
 	border: 1px solid #555;
 	width: 50px;
@@ -13,6 +18,9 @@ td {
 	-o-transition: background-color .5s;
 	-ms-transition: background-color .5s;
 }
+/*
+ Skapa gärna en rad som mellanrum mellan varje {}-set för läsbarhetens skull.
+*/
 .alkali {
 	background-color: #cbcbcb;
 }
@@ -51,6 +59,12 @@ td:hover {
 	-moz-transition: background-color .5s;
 	-o-transition: background-color .5s;
 	-ms-transition: background-color .5s;
+
+/*
+   // Den vanliga "transition" underst. Ex:
+    -webkit-transition: background-color .5s;
+            transition: backgound-color .5s;
+*/
 }
 .none {
 	border: none;
@@ -70,3 +84,7 @@ td:hover {
 	text-align: center;
 	vertical-align: bottom;
 }
+/*
+	Kom ihåg namngivningen när vi namnger saker och ting. alkaliMetals etc. (camelCase) Beskrivande namn för innehållet - inte hur de ska bete sig. 
+	Glöm inte att validera på http://jigsaw.w3.org/css-validator/ för att kontrollera din css
+*/
